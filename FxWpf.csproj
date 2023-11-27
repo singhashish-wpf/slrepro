@@ -6,6 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <LangVersion>latest</LangVersion>
     <IntermediateOutputPath>$(MSBuildThisFileDirectory)\..\obj\</IntermediateOutputPath>
+    <EmbedUntrackedSources>true</EmbedUntrackedSources>
   </PropertyGroup>
 
   <ItemGroup>
@@ -15,6 +16,8 @@
     <Reference Include="System.Xaml" />
 
     <Page Include="MainWindow.xaml" />
+        <PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.0.0" PrivateAssets="All"/>
+
   </ItemGroup>
 
 </Project>

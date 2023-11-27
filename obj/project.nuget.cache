@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3SLNEDXb9hCoaojblVc5l+PcHHDRMMnSv2vA9I9dPdFKXBWN/37sR/VNwTQsPC+vYMq652paodp7ZLNvAo1tWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\singhashish.FAREAST\\Downloads\\sdk344838\\FxWpf\\FxWpf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\singhashish.FAREAST\\.nuget\\packages\\microsoft.build.tasks.git\\1.0.0\\microsoft.build.tasks.git.1.0.0.nupkg.sha512",
+    "C:\\Users\\singhashish.FAREAST\\.nuget\\packages\\microsoft.sourcelink.common\\1.0.0\\microsoft.sourcelink.common.1.0.0.nupkg.sha512",
+    "C:\\Users\\singhashish.FAREAST\\.nuget\\packages\\microsoft.sourcelink.github\\1.0.0\\microsoft.sourcelink.github.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
